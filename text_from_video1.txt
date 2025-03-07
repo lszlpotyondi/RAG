@@ -1,0 +1,126 @@
+
+Ebben a videóban egy viszonylag friss cikkre fogok reagálni, szoftverfejlesztő kezdőfizetésekkel kapcsolatban.
+Zsolt vagyok a programozáskarriá.hu-tól,
+a szoftverfejlesztéshez és karrierépítéshez szükséges képességeket fejlesztjük. Iratkozz fel a csatornára, és ne feledd, ezen a videón is 100 lájka célja,
+hogy ehhez hasonló tartalmakat minél több mindenkihez el tudjunk juttatni, mert ezzel jó eséllyel neked is segítünk. Ugyanis itt van például ez a cikk,
+tehát ahogy látod, brutális kezdőbérrel számolhat, aki a műegyetemen végez. Szóval, aki
+Nem feléltelenül csak a műegyetemen végzettekről van egyébként szó, úgy általánosságban a fizetésekkel kapcsolatban, de...
+itt most akkor nézzük meg, hogy valószínű Magyarországon a legjobb hely, ahol végezhetsz, az a BMA. Lehet mondjuk
+nézni, hogy különböző egyetemeknél hol van a rangsor, szoftverfejlesztéssel kapcsolatban. Bár hozzáteszem, ha programozó matematikus vagy programtervező
+a matematikus pontosan nem tudom, hogy mik ezek a nevek. Ott vannak bizonyos specializációk, ahol elképzelhető, hogy máshova is érdemes lehet menni.
+De szóval a VM-e volt ugye a leghíresebb, legalábbis idáig, ahol lehet megfelelő képességek elsőjátítására,
+munkahelyet szerezni. És itt azt mondja, hogy akár havi közel 700 ezer forint bruttó kezdő jövedelemmel is lehet számolni.
+Aztának, hogy ez nem feléltelően igaz minden esetben. Ez az egyik. A másik pedig, hogy ez lehet több is akár,
+ha nem Magyarországon kezdesz. De erről majd még beszélni fogunk. És azt mondja, hogy pályakezdőnként átlagosan 522.600 forint, még 8-9 évvel
+a végzés után már 792.000 forint bruttó jövedelme számolhatnak. Én ezt nem értem. Tehát itt látszik, hogy itt egy két dolgot összesikerült most.
+Tehát én 2006-ban végeztem egyébként a BMN, hozzáteszem. Akkor még kicsit más fizetések voltak, mert azóta
+Történt egy kis infláció, nem is kicsi. De tudok valakit konkrétan, aki havi milliós fizetésért
+mental pályakezdőként, mert annyira specializált volt a tudása. És tudok olyanokat is, akik nem találtak munkát. Úgyhogy...
+Minden attól függ, hogy mi az, amit tudsz. Tehát amikor egy ilyen cikket olvasol, legyen ez akárhol, ne a számokat néz, hogy 522.790,
+mert ez nem mond semmit. Most 8-9 év múlva hozzáteszem, ha egy átlagos 5%-os inflációval számolod,
+Most akkor számoljunk utána, jó? Tehát 5% infláció. Tegyük fel, hogy itt van ez a 792 ezer forint, amit most írunk, jó?
+Szorozva 1,05, ez az 5%-os infláció, 8-9 év, akkor legyen csak 8 év a 8. hatványra emelve,
+az már rögtön 1.170.144 forint. Ha véletlenül nem 5% inflációban hiszel, hanem mondjuk 9% inflációban,
+akkor már másfél millió forint. Irreleváns az, amit itt látsz. Annak idején az ilyen 200-250 ezer forint havi fizetés az megfelelő volt.
+2006-ban, legalábbis amikor én kerestem először állást. Ennek elére az akkori forint árakon megváltozott,
+már volt lehetőség arra, hogy volt, aki egy ilyen milliós fizetést szerzett. Tehát
+Ezt kezeljük egy kicsit a maga helyén. A másik pedig az, hogy most egyetem, vagy önképzés, vagy tanfolyam.
+Ez is olyan, hogy nem kell választani. Most öntetném olajat a tűzre, és mondhatnám megint, hogy nézd meg ezt a kék galéros asszisztencseréket.
+megint most kékbe öltöztem direkt ezért egyébként, hogy most vajon diploma nélkül van-e helyed a szobverfejlesztésben?
+ott elég alaposan kifejtettem a véleményem, hogy igen. És ott kifejtettem azt a véleményt is, hogy amennyiben szeretném,
+a szakmában maradni, hosszú távon, akkor nem feljételül kötelező, de egy opció az, hogy beiratkozol egy főiskolára egyetemben.
+Vagy választhatsz egy magyar intézményt, például a BM-t, vagy választhatsz egy külföldit, vagy ilyen nanodigreek alapján,
+le tudsz tenni egy csomó vizsgát célirányosan. Rengeteg lehetőség van a világon. Úgyhogy...
+Nem igazán értem ezt sem, hogy miért kell választani azt, hogy most egyetem, nem egyetem. A lényeg az, hogy hiány van speciálisztatban.
+IT-tudásokból. Nézd meg, ennek a weboldalnak is course problémája van. Látod? Hogy írták meg ezt
+a weboldalt. Tehát itt adat.vg.hu per API per user tracking. Tehát itt van valami gond, nézd meg még
+egy ilyen oldalon is. Most annyi munka van a világon, annyi szoftverfejlesztő munka lehetőség van a világon, hogy ez csak
+egyetemen, főiskolán végzettekből úgy se fogják tudni betelíteni. És ha már bent vagy, akkor már nyert ügyed van, ha megfelelő kompetenciát
+tudsz felmutatni. És akkor mutatnám még azt is, hogy miért nem perspektíva nekem ez a 8-9 évvel a végzés után
+összeget, akár még megemlíteni is. Tehát 792.000 forint egy hónapban. Szorozzuk meg 15
+22-ben ez ennyi egy évben. Asszuk el 357-tel jelen értékben, szerintem nagyjából annyi az euróforint.
+Ez 26.622 euró éves bruttó fizetés, ha minden igaz. Ugye bruttót mondanak.
+Lehet, hogy Magyarországon alacsonyabb a jövedelmet terhelő adó, mint sok más helyen, de ettől még 26621-en.
+Euró bruttó. 8-9 év aktív szoftverfejlesztés után jó eséllyel senior szintre jutsz, ha jól csinálod a dolgodat.
+Ha ez alatt az idő alatt meg tudod oldani azt, hogy megtanulod az angolt legalább olyan szinten, hogy képes legyél kommunikálni másokkal és képes legyél alapvető dokumentációtával.
+írni, esetleg Grammarly, vagy ProWriting Aid, vagy valami más szoftver segítségével, melyel kiavítják a hibáidat, mert mindenki következik
+jövetelhibákat én is, akkor jó eséllyel egy senior szintre jutsz. 8-9 év tapasztalattal. Nézzük, hogy a Google mit fizet
+Jó, dollár. Tehát nem euró, hanem dollár, de mondjuk akkor akkor
+még szorozzuk meg ezt az összeget 1,14-jel, és ezek fejből mondom emlékeim szerint, akkor nagyjából 30 ezer dollárról van szó, jó? Tehát több
+Több mint tízszerese. Jó rendben van, lehet, hogy egy olyan országban van, ahol a megélhetési költségek magasabbak. De álljon meg a menet Svájcban is ez a helyzet, hogy megváltozunk.
+nagyjából hasonló fizetések vannak, mint az Egyesült Államokban. Álljon meg a menetek kicsit. Németországban is. Jó, ott magasabb az adó. Megélhetés, az szintén meglehető
+oldani, főleg így home office idején, hogy nem kell minden nap bemenni irodába, tehát akár még külvárosban, vagy olyan helyen, ahol kevesebb a szennyezettség, kevesebb
+de ugyanolyan jók a szolgáltatások, szintén lehet lakást bérelni vagy venni. Most az, hogy...
+magasabb a fizetésed és kicsit magasabbak a költségeid, akkor többet tudsz félretenni még így is, mintha alacsonyabb fizetéssel, ugye itt 8-9 év után,
+Ebből elteszel mondjuk egy, elmegy mondjuk 10.000 radóra járulékokra, elmegyek,
+még 15.000 megélhetési költségekre, és akkor férhetesz el 5000 eurót. Még itt tegyük fel, hogy elmegy ebből a
+350 ezerre számoljunk, mondjuk elmegy belőle mondjuk 150 ezer adóra, marad 200 ezer megélhetési költségeket 100 ezer
+dollárból vígan meg tudod oldani, de ha akkor 150 ezer dollár akkor legyen 150 ezer dollár, félre teszel 50 ezer tízszer annyi. Szóval perspektíva.
+akkor ez a Google, Facebook, nézzük, vagy Meta, ez még jobb. Microsoft, Senior, itt kicsit mások a szintek, jó?
+Jó, 226 ezer, túléljük, nem? Tehát ez se rossz. Aztán nézzük még néhányat Amazon. Na most itt a színűségünk.
+az a hármas szintű. Hasonló. És ne csak ezeket a manga stokkokat nézzük, ugye azért mondom, hogy a manga-nak
+mert régen fang volt, f-a-a-n-g, csak a Facebookból meta lett, tehát most új betűszót kell kitalálni, ez lesz a manga. Akkor nézzünk...
+Itt van Robinhood, tessék, ez a kereskedői rész. L3, 427 ezer. Perspektíva. Erről veszek Snowball-t.
+Mostanában nagyon híres, ugye? IC az azt jelenti, hogy individual contributor. Egyéni contributor, azaz hozzájárulsz a céghez az egyéni munkáddal.
+Senior software fejlesztő, hasonló. Zillow, talán ismerős ingatlamból, 256 ezer.
+Kerekszám. Jó. Akkor mik vannak még? Most véletlenszerűen rábökök valamire, jó? Tehát itt van, nem láttam, hogy... Na jó, hát nincs.
+nincs. Azért ennyire véletlenszerűen nem tudok rábökni, mert nem mindenhol vannak szintek, egy kicsit túl sok a cég, akkor ennyire jól azért nem működik ez az eszköz.
+De akkor most innentől kezdve valami ilyen olyan céget nézzünk, amelyik Macbox-nám.
+mondjuk itt van egy, mi az InnoLux, az csupa nagybetűs, nem? Azért nem mindenhol vannak fizetések. De szóval jelenleg...
+Én úgy látom, hogy akár még Németországban ismerem a piacot, Svájci piacot valamennyire ismerem,
+Nem kevesen írták már azt, hogy Magyarországon is megvannak ezek a lehetőségek, csak egy kicsit jobban utána kell járni, és esetleg nem árt mondjuk külföldről hazatérni. Tip.
+Vagy lehet külföldre dolgozni Magyarországról, vagy lehet szabadúszóként, konzultásként dolgozni, megfelelő fizetésért, szóval lehetőségünk.
+vannak. És nem feléltelően ezen kell gondolkodni, hogy jaj, most én nem a BM-en fogok végezni, akkor nekem még 522-es
+7600 forintom sem lesz egy hónapban, és 8-9 évet kell göriznem ahhoz, hogy 792 ezer forintot keresek? De hát ezt akkor is megkeressem, ha csak az infláció.
+Megteszi a jótékony hatását. Emlékezzünk erre a számításra, az 500, mondjuk itt 792 volt, most akkor ideírom az 522000.
+6 százat, tessék, 772 ezer, ha csak 5 százalékos inflációval számolunk 8 éven át. Az amerikai egybank 2 százalékos inflációval számolt.
+szólog általában, csak ezt nem sikerült belőniük már évek óta. Szóval attól függ, hogy hogy számoljuk az infláció. De egy önmagában már
+megvan. Magyarországon azért számolok 5%-kal úgy nagyjából, mert annak idején emlékszünk az államkötvény hozamokra, ugye? Tehát ilyen 5%-kal
+6% ez így reális, amikor ezek az államkötvény ajánlatok voltak, és
+Sosmár ilyen inflációkövető államkötvőnyekről hallottam újabban. Szóval, ha ezt megnézed, 8 év múlva, ha nem csinálsz,
+már semmit, már akkor itt 522 élet, 792 ezer lesz. Tehát itt most ez a cikk elfelejtette diszkontálni konkrétan a cikk,
+a fizetéseket az inflációval. Tehát nem diszkontálni, hanem ennek az ellenkezője, hogy megnövelni, meg kellett volna növelni
+Szóval megint az van, hogy itt most nem erről kell gondolkozni, hanem arról, hogy ha még mindig ezt a videót nézed, és ebből próbálod eltöntni,
+eldönted, hogy neked való-e a szoftverfejlesztés, hogy érdemese egyáltalán belekezdeni, mondjuk akár a karrierváltó programmal, akár önképzéssel, ilyet is lehet,
+hogy saját magadnak után nézel, nyilván van erre lehetőség, vagy akármelyik más tanfolyam, bootcamp, akármi más, bármi
+jobb, mint a semmi. Tehát bármi jobb, mintha csak azon gondolkodnám, hogy jaj, ez nekem való lesz munkám. Mert legalább akkor foglalkozod a szoftverfejlesztéssel,
+megadod neki az esélyt. Ha nem adod meg neki az esélyt, akkor biztos, hogy nem fogsz elhihaszkedni a szoftverfejlesztésből, nem fogsz tudni szoftvert fejleszteni. Add meg neki az esélyt,
+hogy elkezdesz, tele van a YouTube csatornánk is ingyenes anyagokkal, tanfolyamokkal, hamarosan jönnek ki még újabbak is, hozzáteszem, már azért,
+Azzal el tudod kezdeni. Ott van a leírásban HTML tanfolyam CSS-sel együtt, WordPress tanfolyam, tessék. El lehet kezdeni, ott lesznek az első sikereseket,
+élményeid. Aztán, ha nálunk folytatod, akkor nálunk folytatod, karrierváltó programban, ha meg nem, akkor is elindultál az úton, és legalább haladsz afelé, hogy keves
+hiány, vagy kisebb hiány lenne megfelelő szakemberekből. Mind Magyarországon, mind külföldön. Ennyit tudok erről a cikkről nagyjából mondani, meg azt, hogy
+perspektívába. Tehát megfelelő perspektívát kell nézni. Azt még nem is mondtam, hogy milyen lehetőségek vannak akkor, ha nem csak alkalmazottként gondolkodsz.
+100 dollár feletti óradé például. Mondjuk hozzáteszem, itt is nagyjából kijönne, mert ha belegondolsz mondjuk
+legyen mondjuk 300 ezer dollár, jó? Egy évben. Akkor ebben van 12 hónap. Egy hónapban átlagosan 20 magyar,
+munkanap van talán, így most kerekítek, mert két szabad napot mondjuk egy hónapban levonok, akkor lesz mondjuk húsz munkanapot. És egy napban van nyolc óra, ugye?
+156 dollár 25 centes óravér, vagy óradíj. És hozzáteszem, ez szabadúszóként,
+szintén meg lehet keresni, ennél többet is meg lehet egyébként keresni, és úgy is meg lehet keresni, hogy szabadúszóként, vagy akár cégtulajdonosként másokat feltutatni,
+tudsz venni azért, hogy elvégezzék a munkának egy olyan részét, amelyet te nem szeretnél annyira, mert automatizálható és más is meg tudja oldani, magasabb árat tudsz
+elkérni érte, ott van az arbitrás lehetőség. Tehát ez is egy perspektíva. Sok lehetőség van a világon, ezeket meg kell találni, és nem azt mondom, hogy
+hogy most elkezdesz tanulni a szoftverfejlesztés és itt lesz a 300 ezer dolláros fizetés, vagy akár pár év múlva se feltétlenül, mert nem jogosít fel
+téged semmi arra, hogy ez neked jár, hanem beleteszed az energiát, és ha tényleg jó leszel, akkor akkor eljuthatsz egy
+ilyen szintre is, hogy ebben az, ezen az úton hogyan, hogy kerülsz ide, ez egy másik kérdés. Lehet, hogy diplomával.
+Lehet, hogy diplomaniak. Nézd meg, mondjuk Dan Abramov-ot. Dan Abramov. Azt hiszem, hogy overreacted a blogjának,
+a neve. Igen, overreacted.io. It volt egy my decade in review. Ha tudsz angolul, olvasd el.
+Ha nem tudsz, amgoló translate.google.com, fordíts le és olvasd el. Nézd meg, hogy...
+as a first year college student. That as I meant college-ba, that Főiskola Egyetem,
+és utána elment dolgozni a drop-ot. Ám
+Nem azt mondom, hogy a főiskolák egyetemek jelentek,
+vagy hogy ott kell őket hagynod. De nekem ez volt a helyes megoldás. Ki az a Dan Ampromov? Talán is hát.
+és ismered a nevét React-ből, ha már foglalkoztál React-tel. Úgy eszembe jutott, hogy... Elment egy céghez,
+eléggé határes egy cég volt, pénzügyileg nem is igazán érte meg neki, de kitartotta mellett, hogy ő igenis jó dolgokat fog építeni.
+hozzáteszem, szeretnék akár én is a Danabromov helyében lenni, mert olyan ismertsége van nemzetközi szinten. Nem
+nem mintha megérdemelném, hogy a Denabromov helyében legyek, mert én nem nem járultam hozzá mondjuk az open source szoftverek, vagy akár a React code
+vagy Redux-hoz, vagy akár imásoz. Ilyen szinten. Tehát ő megérdemli azt, ahol van, és itt minden egyes évében láthatod, hogy mit csinált. És néha
+csak a véletlen döntött. Az élet úgy hozta, hogy végül eljutott a Facebookig, és ott reaktálott.
+foglalkozott konkrétan, de akkor is azzal foglalkozott volna, ha nem fizett meg érde. Tehát előtte is foglalkozott ő nagyon bonyolul dolgok.
+Tehát látod, hogy ez például egy olyan életút, rengeteg egyetemista végzős cserélne bármikor Danabromov-tokat.
+tapasztalatával. És ő ezt az életben szerezte meg, és nem az egyetemen. És nem azon gondolkodott, hogy most 560 ezer forintot, vagy 792 ezer forintot fog keresni,
+8 év múlva, mondjuk Rubelben, vagy akármilyen más devizában, hanem azon, hogy lehet a jobb szakember. Úgyhogy ez
+Ezzel be is fejezem ezt a videót. Ha jobb szakember szeretnél lenni, vagy esetleg el szeretnéd ezt egyáltalán kezdeni, első tanfolyamok, ugye itt...
+ingyenes tanfolyamok vannak a link leírásában, weboldalépítés, emellett Wordpress is. Programozás témában tele vannak,
+videóval, oktatóanyaggal, tehát ez a Youtube csatorna tele van vele. JavaScript, Python, Django projektek, webfejlesztési
+és az egyik legkönnyebb mód az elhelyezkedésre, az út ki van taposva előttel, és ha fel szeretnéd gyorsítani a fejlődésedet, és velünk szeretnéd ezt megtenni, akkor megosztod.
+ott van a karrierváltó program, ahol szintén rengeteg házi feladattal, rengeteg interaktívelemmel és egyéb állapot,
+lehetőségekkel felgyorsítjuk a haladásot.
+Música
